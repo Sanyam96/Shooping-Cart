@@ -1,0 +1,14 @@
+{
+  "name": "shopping_cart",
+  "version": "0.1.0",
+  "description": "shopping cart backend service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sanyam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
